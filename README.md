@@ -1,5 +1,12 @@
 
 # Angular Code Sample for SmartCare
+  With respect to angular, code sample highlights general use of the following modules:
+
+      "angular-resource": "^1.3.0",
+      "angular-route": "^1.3.0"
+      
+  Angular Controllers, Services, Directives and Providers
+
 
 ## Build & development
 
